@@ -57,7 +57,7 @@ We welcome contributing and discussions, but please follow the guidelines listed
 
 ## License
 
-The script files are licensed under the MIT license. You are free to use, modify, and distribute the code, given that you abide by the terms presented in the [LICENSE](https://github.com/your-repository/blob/main/LICENSE) file.
+The script files are licensed under the MIT license. You are free to use, modify, and distribute the code, given that you abide by the terms presented in the [LICENSE](https://github.com/harmindersinghnijjar/raspberry_pi_cpu_monitoring/blob/main/LICENSE) file.
 
 ## Future Improvements
 
